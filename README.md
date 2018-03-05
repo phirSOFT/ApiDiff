@@ -1,5 +1,5 @@
 # ApiDiff
-A tool to perform diff operations on the public members of an assembly.
+The goal of this project is to provide a language agnostic tool to detect changes in the public api and determine wheter this changes are breaking or not. The tool shoul be used to determine the correct semantic version of an api.
 
 ## Assembly diff
 An assembly can contain four kind of types, which define the publi API of that assembly.
